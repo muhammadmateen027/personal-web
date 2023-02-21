@@ -1,0 +1,52 @@
+
+/* Add your profile image here */
+.Photo{
+    background-image: url('https://profile-images.xing.com/images/c87092b1843c6f87ed4e6d1c07818850-1/muhammad-mateen.1024x1024.jpg');
+}
+/* Projects Photo */
+.project1{
+    background-image: url('https://play-lh.googleusercontent.com/mGqvGetbQboBSIgZgdBm0xQUg3-o97e6y9gUJVDIPeR8tlAnVrojPM8nqBU2MiD5Nj0=w480-h960');
+    cursor: none;    
+}
+.project2{
+    background-image: url('https://play-lh.googleusercontent.com/j4Rw3CtEU910eEaEV__EzHEjmVDnj9PESo1Zeh7xJaumjIRc8y_j8vaRc26GWcTTGQ=w480-h960');
+    cursor: none;
+}
+.project3{
+    background-image: url('https://play-lh.googleusercontent.com/JYl0sCuhuPzy4lhNG39xkOG2UYj0IGvw6tm1RthBXDdtzDOdw6rT6fgSQQThZqjH9hI=s96');
+    cursor: none;
+}
+.project4{
+    background-image: url('https://play-lh.googleusercontent.com/k_NZrBcchkyWyTXkUKhsqXBl5RHSQ7opjNbUVEEx35DNB8hTF6T4H_ilE14IWyiBZgQ=w480-h960');
+    cursor: none;
+}
+.project5{
+    background-image: url('https://epelabuhan.lpa.gov.my/img/logo_epelabuhan.049cff6a.png');
+    cursor: none;
+}
+.project6{
+    background-image: url('https://play-lh.googleusercontent.com/Bj-20aLvtmRAfOjwS6gs-B-rcs5Hn4NhKhcHr_o3rBSZL0hYu1CA7iihiG5wuSclIHzo=w480-h960');
+    cursor: none;
+}
+/* Miscelaneous Activities photo */
+.misc1{
+    background-image: url('https://play-lh.googleusercontent.com/7Aac3BTcvD57yf2GZVvqcJ0fRXf3PKtMfKge6x3sdObP9CUX-Snyl-g4DkK6SfbRYLs=w480-h960');
+    cursor: none;
+}
+.misc2{
+    background-image: url('https://somniosoftware.com/assets/images/common/icons/logo.svg');
+    cursor: none;
+}
+.misc3{
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/AirAsia_New_Logo.svg/768px-AirAsia_New_Logo.svg.png');
+    cursor: none;
+}
+.misc4{
+    background-image: url('https://media.licdn.com/dms/image/C510BAQEd1QhZ_3Rlmw/company-logo_200_200/0/1519867069087?e=2147483647&v=beta&t=_vNl1ZiOClDRwwxSQxF8CzL3eK07_TFoTcjb7GZrFLQ');
+    cursor: none;
+}
+
+.misc5{
+    background-image: url('https://www.faxton.pk/wp-content/uploads/2021/09/On2Sol-Private-Limited.png');
+    cursor: none;
+}
